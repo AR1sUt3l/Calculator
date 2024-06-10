@@ -4,6 +4,7 @@ This Java application is intended to function as a calculator
 ## Table Of Contents
 * [Purpose](#purpose)
 * [Requirements](#requirements)
+* [Additional Features](#additionalfeatures)
 
 ## Description
 
@@ -14,3 +15,8 @@ This is meant to be a simple app that can calculate mathematical equations. The 
 * Be able to solve simple arithmetic equations
 * Be able to solve simple math equations
 * Be able to solve complex math equations
+
+### Additional Features
+* Be able to show the process of solving the arithmetic equations
+* Be able to show the process of solving the math equations
+* Be able to have a cheat sheet with formulas
