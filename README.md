@@ -4,7 +4,7 @@ This Java application is intended to function as a calculator
 ## Table Of Contents
 * [Purpose](#purpose)
 * [Requirements](#requirements)
-* [Additional Features](#additional Features)
+* [Additional Features](#AdditionalFeatures)
 
 ## Description
 
