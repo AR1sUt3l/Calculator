@@ -2,22 +2,22 @@ package calculator;
 
 public class SimpleOperations
 {
-	public double addition(double firstNumber, double secondNumber)
+	public double add(double firstNumber, double secondNumber)
 	{
 		return firstNumber + secondNumber;
 	}
 	
-	public double subtraction(double firstNumber, double secondNumber)
+	public double subtract(double firstNumber, double secondNumber)
 	{
 		return firstNumber - secondNumber;
 	}
 	
-	public double multiplication(double firstNumber, double secondNumber)
+	public double multiply(double firstNumber, double secondNumber)
 	{
 		return firstNumber * secondNumber;
 	}
 	
-	public double division(double firstNumber, double secondNumber)
+	public double divide(double firstNumber, double secondNumber)
 	{
 		double quotient;
 		try
@@ -30,5 +30,10 @@ public class SimpleOperations
 			System.out.println("Error: Cannot Divide by Zero");
 			return 0;
 		}
+	}
+	
+	public static void main(String[] args)
+	{
+		
 	}
 }
