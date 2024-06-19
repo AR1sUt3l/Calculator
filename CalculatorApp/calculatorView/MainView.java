@@ -38,22 +38,22 @@ public class MainView extends JFrame
 		addOperationButtons();
 	}
 
-	private void addOperationButtons()
+	private void addCalculation()
 	{
 		
 	}
-
-	private void addNumberButtons()
-	{
-		
-	}
-
+	
 	private void addResult()
 	{
 		
 	}
-
-	private void addCalculation()
+	
+	private void addNumberButtons()
+	{
+		
+	}
+	
+	private void addOperationButtons()
 	{
 		
 	}
