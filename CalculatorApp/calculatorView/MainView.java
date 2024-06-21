@@ -62,7 +62,7 @@ public class MainView extends JFrame
 	
 	private void initialUI()
 	{
-		mainPanel.setLayout(new GridLayout(3,1));
+		mainPanel.setLayout(new GridLayout(2,1));
 		addWorking();
 		addButtons();
 		add(mainPanel);
@@ -86,8 +86,8 @@ public class MainView extends JFrame
 	private void addResult()
 	{
 		resultsPanel.setBackground(Color.WHITE);
-		resultsPanel.add(results)
-;		topPanel.add(resultsPanel,BorderLayout.SOUTH);
+		resultsPanel.add(results);
+		topPanel.add(resultsPanel,BorderLayout.SOUTH);
 	}
 	
 	private void addButtons()
