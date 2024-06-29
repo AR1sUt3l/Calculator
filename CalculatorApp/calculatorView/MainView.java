@@ -180,6 +180,14 @@ public class MainView extends JFrame
 		public void actionPerformed(ActionEvent e)
 		{
 			String currentWorking = working.getText();
+//			char[] workingInArray = new char[currentWorking.length()];
+//			for (int i = 0; i < currentWorking.length(); i++)
+//			{
+//				workingInArray[i] = currentWorking.charAt(i);
+//			}
+			int indexOfFirstSpace = currentWorking.indexOf(" ");
+			int indexOfSecondSpace = currentWorking.lastIndexOf(" ");
+			String number1 = "";
 			
 			
 		}
