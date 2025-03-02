@@ -1,4 +1,4 @@
-# CalculatorApp
+# Calculator
 This Java application is intended to function as a calculator
 
 ## Table Of Contents
