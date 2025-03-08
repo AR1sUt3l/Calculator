@@ -2,6 +2,8 @@ package calculator;
 
 public class Add
 {
-	void add_handler() {
+	BigInt add(BigInt number) {
+		return number;
+		
 	}
 }
