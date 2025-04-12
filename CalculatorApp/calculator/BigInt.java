@@ -13,5 +13,10 @@ public class BigInt
 			number.add(integer);
 		}
 	}
-
+	
+	public Vector<Integer> getNumber()
+	{
+		return number;
+	}
+	
 }
