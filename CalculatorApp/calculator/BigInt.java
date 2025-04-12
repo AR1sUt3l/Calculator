@@ -19,4 +19,17 @@ public class BigInt
 		return number;
 	}
 	
+	public void setNumber(int[] newNumber)
+	{
+		for (int integer : newNumber)
+		{
+			number.add(integer);
+		}
+	}
+	
+	public void setNumber(Vector<Integer> newNumber)
+	{
+		number = newNumber;
+	}
+
 }
